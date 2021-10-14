@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(79, 83, 87);
+}
+.bar{
+    background-color:black;
+}
+.container-fluid{
+    background-color: black;
+}
+.dropdown-item{
+    color:whitesmoke;
+}
+.Name{
+    position: relative;
+    top: 200px;
+    color:whitesmoke;
+}
